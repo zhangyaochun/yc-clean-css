@@ -1,0 +1,27 @@
+{
+  "name": "yc-clean-css",
+  "version": "0.0.1",
+  "description": "this is custom clean css package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhangyaochun/yc-clean-css.git"
+  },
+  "keywords": [
+    "yc"
+  ],
+  "engines" : {
+        "node" : ">= 0.8.0"
+  },
+  "author": "zhangyaochun",
+  "dependencies": {
+    "clean-css" : "~2.1.0"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-clean-css/issues"
+  }
+}
