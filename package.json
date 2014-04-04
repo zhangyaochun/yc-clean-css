@@ -1,6 +1,6 @@
 {
   "name": "yc-clean-css",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "this is custom clean css package",
   "main": "index.js",
   "scripts": {
